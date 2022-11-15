@@ -1,0 +1,25 @@
+.circle{
+    /* display: inline-flex; */
+    width: 1rem;
+    height: auto;
+    /* background-color: #262E38; */
+    padding: 1rem;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.circleContainer{
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem 0;
+}
+
+.circle:hover{
+    background-color: #7C8798;
+    color: white;
+}
+
+/* .click{
+    background-color: #262E38;
+} */
+

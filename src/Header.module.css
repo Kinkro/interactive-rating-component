@@ -1,0 +1,19 @@
+.imgContainer{
+    display: inline;
+    border-radius: 50%;
+    background-color: #262E38;
+    padding:1rem;
+}
+
+.img{
+    width: 1rem;
+    height: auto;
+}
+
+.heading{
+    color: white;
+}
+
+.para{
+    color: #969FAD;
+}
