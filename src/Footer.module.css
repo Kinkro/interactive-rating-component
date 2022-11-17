@@ -10,9 +10,10 @@
     background-color: #FC7614;
     color: #ffffff;
     border-style: none;
+    cursor: pointer;
 }
 
-.btn:hover{
+.btn:active{
     background-color: #FFFFFF;
     color: #FC7614;
 }

@@ -1,0 +1,35 @@
+.imgContainer{
+    display: flex;
+    justify-content: center;
+    height: 10.5em;
+}
+
+.img{
+
+    /* display: block; */
+    /* justify-content: center; */
+    width: 10rem;
+    margin: auto;
+}
+.choiceContainer{
+    width: auto;
+    border-radius: 1.5rem;
+    background-color:#262E38;
+    padding: 0.5rem;
+
+}
+.choice{
+    color: #FC7614;
+}
+.textAlign {
+    text-align: center;
+
+}
+.text {
+    color: #969FAD;
+}
+
+.heading{
+    color:white;
+
+}

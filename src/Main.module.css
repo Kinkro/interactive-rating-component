@@ -1,17 +1,21 @@
 .circle{
-    /* display: inline-flex; */
-    width: 1rem;
+    display: flex;
+    width: 2rem;
     height: auto;
-    /* background-color: #262E38; */
-    padding: 1rem;
+    background-color: #262E38;
+    padding: 1.4rem;
     border-radius: 50%;
-    text-align: center;
+    /* text-align: center; */
+    justify-content: center;
+    border-style: none;
+    cursor: pointer;
+    margin: auto;
 }
 
 .circleContainer{
     display: flex;
-    justify-content: space-between;
-    margin: 2rem 0;
+    justify-content: space-evenly;
+    margin: 2rem auto;
 }
 
 .circle:hover{
@@ -19,7 +23,11 @@
     color: white;
 }
 
-/* .click{
-    background-color: #262E38;
-} */
+.click{
+    background-color:#262E38;
+}
 
+.active {
+    background-color: #7C8798;
+    color: white;
+}
