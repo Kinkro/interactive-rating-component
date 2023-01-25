@@ -33,6 +33,7 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 
 ### Screenshot
+![interactiveRatingComp](https://user-images.githubusercontent.com/85110325/214499911-5793df04-1aab-48c4-b52a-e0938a1ba345.jpg)
 
 ![](./[screenshot.jpg](https://user-images.githubusercontent.com/85110325/214498478-bc58c10a-920e-43a5-956c-ab7ef88b9c45.jpg))
 
@@ -54,7 +55,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Alexandre Kinkriashvili](https://www.Kinkro.github.io/Portfolio)
+- Website - [Alexandre Kinkriashvili](https://www.kinkro.github.io/Portfolio)
 - LinkedIn - [@Alexandre Kinkriashvili](https://www.linkedin.com/in/alexkinkriashvili/)
 
 
