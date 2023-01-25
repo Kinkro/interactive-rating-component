@@ -49,7 +49,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Alexandre Kinkriashvili]([https://www.kinkro.github.io/Portfolio](https://kinkro.github.io/Portfolio/))
+- Website - ([Portfolio website](https://kinkro.github.io/Portfolio/))
 - LinkedIn - [@Alexandre Kinkriashvili](https://www.linkedin.com/in/alexkinkriashvili/)
 
 
