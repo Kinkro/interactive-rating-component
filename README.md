@@ -15,14 +15,14 @@ Users should be able to:
 ### Screenshot
 ![interactiveRatingComp](https://user-images.githubusercontent.com/85110325/214499911-5793df04-1aab-48c4-b52a-e0938a1ba345.jpg)
 
-![](./[screenshot.jpg](https://user-images.githubusercontent.com/85110325/214498478-bc58c10a-920e-43a5-956c-ab7ef88b9c45.jpg))
+
 
 
 
 ### Links
 
-- Solution URL: [[Click here!](https://github.com/Kinkro/interactive-rating-component)]
-- Live Site URL: [[Click here!](https://kinkro.github.io/interactive-rating-component/)]
+- [[Solution URL!](https://github.com/Kinkro/interactive-rating-component)]
+- [[Live Site URL!](https://kinkro.github.io/interactive-rating-component/)]
 
 
 ### Built with
@@ -34,8 +34,8 @@ Users should be able to:
 
 ## Author
 
-- Website - ([Portfolio website](https://kinkro.github.io/Portfolio/))
-- LinkedIn - [@Alexandre Kinkriashvili](https://www.linkedin.com/in/alexkinkriashvili/)
+- Website - [Alex Kinkro](https://kinkro.github.io/Portfolio/)
+- LinkedIn - [Alexandre Kinkriashvili](https://www.linkedin.com/in/alexkinkriashvili/)
 
 
 
